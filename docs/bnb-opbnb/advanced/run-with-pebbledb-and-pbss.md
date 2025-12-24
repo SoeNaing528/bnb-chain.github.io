@@ -1,3 +1,4 @@
+--state.scheme path --db.engine pebble
 ---
 title: Run op-geth with PBSS and PebbleDB - opBNB
 ---
